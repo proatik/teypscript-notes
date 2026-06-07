@@ -1,14 +1,14 @@
 # TypeScript Notes – Quick Revision Version 🚀
 
-## 1. Basics & Type System
+## [1. Basics & Type System](./slices/01.md)
 
-- [ ] Type Annotations & Inference
-- [ ] Primitive Types
-- [ ] `any`, `unknown`, `never`, `void`
-- [ ] `null` & `undefined` — `strictNullChecks`
-- [ ] Type Assertions
-- [ ] Literal Types
-- [ ] `satisfies` Operator
+- 👉 Type Annotations & Inference
+- 👉 Primitive Types
+- 👉 `any`, `unknown`, `never`, `void`
+- 👉 `null` & `undefined` — `strictNullChecks`
+- 👉 Type Assertions
+- 👉 Literal Types
+- 👉 `satisfies` Operator
 
 ## 2. Type vs Interface
 
