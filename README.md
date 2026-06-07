@@ -61,16 +61,16 @@
 - 👉 `const` Type Parameters (TS 5.0+)
 - 👉 Generic Utility Patterns
 
-## 8. Utility Types
+## [8. Utility Types](./slices/08.md)
 
-- [ ] `Partial` & `Required`
-- [ ] `Pick` & `Omit`
-- [ ] `Record`
-- [ ] `Readonly`
-- [ ] `ReturnType` & `Parameters`
-- [ ] `Awaited`
-- [ ] `NonNullable`
-- [ ] `Exclude` & `Extract`
+- 👉 `Partial` & `Required`
+- 👉 `Pick` & `Omit`
+- 👉 `Record`
+- 👉 `Readonly`
+- 👉 `ReturnType` & `Parameters`
+- 👉 `Awaited`
+- 👉 `NonNullable`
+- 👉 `Exclude` & `Extract`
 
 ## 9. Enums
 
