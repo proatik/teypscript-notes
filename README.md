@@ -72,12 +72,12 @@
 - 👉 `NonNullable`
 - 👉 `Exclude` & `Extract`
 
-## 9. Enums
+## [9. Enums](./slices/09.md)
 
-- [ ] Numeric Enums
-- [ ] String Enums
-- [ ] `const enum`
-- [ ] Enum Pitfalls & Alternatives
+- 👉 Numeric Enums
+- 👉 String Enums
+- 👉 `const enum`
+- 👉 Enum Pitfalls & Alternatives
 
 ## 10. Advanced Types
 
