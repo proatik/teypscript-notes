@@ -95,10 +95,10 @@
 - 👉 `@types` packages
 - 👉 Module Augmentation
 
-## 12. `tsconfig` & Strict Mode
+## [12. `tsconfig` & Strict Mode](./slices/12.md)
 
-- [ ] Key Compiler Options
-- [ ] `strict` & `strictNullChecks`
-- [ ] `target` & `module`
-- [ ] Path Aliases
-- [ ] Project References
+- 👉 Key Compiler Options
+- 👉 `strict` & `strictNullChecks`
+- 👉 `target` & `module`
+- 👉 Path Aliases
+- 👉 Project References
