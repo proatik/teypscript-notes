@@ -87,13 +87,13 @@
 - 👉 Template Literal Types
 - 👉 Recursive Types
 
-## 11. Modules & Declaration Files
+## [11. Modules & Declaration Files](./slices/11.md)
 
-- [ ] ES Modules in TypeScript
-- [ ] `.d.ts` Declaration Files
-- [ ] `declare` keyword
-- [ ] `@types` packages
-- [ ] Module Augmentation
+- 👉 ES Modules in TypeScript
+- 👉 `.d.ts` Declaration Files
+- 👉 `declare` keyword
+- 👉 `@types` packages
+- 👉 Module Augmentation
 
 ## 12. `tsconfig` & Strict Mode
 
