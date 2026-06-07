@@ -26,13 +26,13 @@
 - 👉 Narrowing with Unions
 - 👉 Discriminated Unions
 
-## 4. Type Narrowing & Type Guards
+## [4. Type Narrowing & Type Guards](./slices/04.md)
 
-- [ ] `typeof` Guard
-- [ ] `instanceof` Guard
-- [ ] `in` Guard
-- [ ] Custom Type Guards (`is`)
-- [ ] Discriminated Unions & Exhaustiveness
+- 👉 `typeof` Guard
+- 👉 `instanceof` Guard
+- 👉 `in` Guard
+- 👉 Custom Type Guards (`is`)
+- 👉 Discriminated Unions & Exhaustiveness
 
 ## 5. Functions
 
