@@ -79,13 +79,13 @@
 - 👉 `const enum`
 - 👉 Enum Pitfalls & Alternatives
 
-## 10. Advanced Types
+## [10. Advanced Types](./slices/10.md)
 
-- [ ] Mapped Types
-- [ ] Conditional Types
-- [ ] `infer`
-- [ ] Template Literal Types
-- [ ] Recursive Types
+- 👉 Mapped Types
+- 👉 Conditional Types
+- 👉 `infer`
+- 👉 Template Literal Types
+- 👉 Recursive Types
 
 ## 11. Modules & Declaration Files
 
