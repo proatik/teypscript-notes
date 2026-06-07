@@ -10,14 +10,14 @@
 - 👉 Literal Types
 - 👉 `satisfies` Operator
 
-## 2. Type vs Interface
+## [2. Type vs Interface](./slices/02.md)
 
-- [ ] `type` Aliases
-- [ ] `interface`
-- [ ] Key Differences
-- [ ] Declaration Merging
-- [ ] Extending & Implementing
-- [ ] When to Use Which
+- 👉 `type` Aliases
+- 👉 `interface`
+- 👉 Key Differences
+- 👉 Declaration Merging
+- 👉 Extending & Implementing
+- 👉 When to Use Which
 
 ## 3. Union & Intersection Types
 
