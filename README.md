@@ -19,12 +19,12 @@
 - 👉 Extending & Implementing
 - 👉 When to Use Which
 
-## 3. Union & Intersection Types
+## [3. Union & Intersection Types](./slices/03.md)
 
-- [ ] Union Types `|`
-- [ ] Intersection Types `&`
-- [ ] Narrowing with Unions
-- [ ] Discriminated Unions
+- 👉 Union Types `|`
+- 👉 Intersection Types `&`
+- 👉 Narrowing with Unions
+- 👉 Discriminated Unions
 
 ## 4. Type Narrowing & Type Guards
 
