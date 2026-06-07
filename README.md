@@ -52,14 +52,14 @@
 - 👉 `implements` vs `extends`
 - 👉 Parameter Properties
 
-## 7. Generics
+## [7. Generics](./slices/07.md)
 
-- [ ] Generic Functions
-- [ ] Generic Interfaces & Types
-- [ ] Generic Constraints (`extends`)
-- [ ] Default Type Parameters
-- [ ] `const` Type Parameters (TS 5.0+)
-- [ ] Generic Utility Patterns
+- 👉 Generic Functions
+- 👉 Generic Interfaces & Types
+- 👉 Generic Constraints (`extends`)
+- 👉 Default Type Parameters
+- 👉 `const` Type Parameters (TS 5.0+)
+- 👉 Generic Utility Patterns
 
 ## 8. Utility Types
 
