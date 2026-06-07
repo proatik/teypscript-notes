@@ -34,14 +34,14 @@
 - 👉 Custom Type Guards (`is`)
 - 👉 Discriminated Unions & Exhaustiveness
 
-## 5. Functions
+## [5. Functions](./slices/05.md)
 
-- [ ] Typed Parameters & Return Types
-- [ ] Optional & Default Parameters
-- [ ] Rest Parameters
-- [ ] Function Overloads
-- [ ] `void` vs `never` in Functions
-- [ ] Function Types & Signatures
+- 👉 Typed Parameters & Return Types
+- 👉 Optional & Default Parameters
+- 👉 Rest Parameters
+- 👉 Function Overloads
+- 👉 `void` vs `never` in Functions
+- 👉 Function Types & Signatures
 
 ## 6. Classes
 
