@@ -43,14 +43,14 @@
 - 👉 `void` vs `never` in Functions
 - 👉 Function Types & Signatures
 
-## 6. Classes
+## [6. Classes](./slices/06.md)
 
-- [ ] Class Basics in TypeScript
-- [ ] Access Modifiers (`public`, `private`, `protected`)
-- [ ] `readonly`
-- [ ] `abstract` Classes
-- [ ] `implements` vs `extends`
-- [ ] Parameter Properties
+- 👉 Class Basics in TypeScript
+- 👉 Access Modifiers (`public`, `private`, `protected`)
+- 👉 `readonly`
+- 👉 `abstract` Classes
+- 👉 `implements` vs `extends`
+- 👉 Parameter Properties
 
 ## 7. Generics
 
